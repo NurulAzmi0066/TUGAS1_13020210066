@@ -1,6 +1,6 @@
 /*Nama	 : Nurul Azmi
 NIM	 : 13020210066
-Hari/Tgl : Rabu, 10 Maret 2023*/
+Hari/Tgl : Jum'at, 10 Maret 2023*/
 
 /* Effek dari operator ++ */
  public class Incr {
